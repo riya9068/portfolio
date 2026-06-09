@@ -50,9 +50,9 @@ export default function Contact() {
             </p>
 
             <p>
-              🧠 GFG:
+              🧠 Leetcode:
               <a
-                href="https://auth.geeksforgeeks.org/user/riya_verma"
+                href="https://leetcode.com/u/rhia-verma/"
                 target="_blank"
                 className="text-sky-400 ml-2"
               >
